@@ -8,8 +8,8 @@ LOY 2기 스터디 페이지 입니다.
 -----------------------------------
 
 ## 멤버 링크
-. 박정운 (https://github.com/parkjungwun/khancho)<br>
-. 이규혁 (https://github.com/dlrbgur/dlrbgur)<br>
+. 박정운 (https://github.com/parkjungwun)<br>
+. 이규혁 (https://github.com/dlrbgur)<br>
 . 이예준 (https://github.com/LeeYeJunZero) <br>
 . 임건우 (https://github.com/hg01040) <br>
 . 조범준 (https://github.com/qjawnsdl) <br>
